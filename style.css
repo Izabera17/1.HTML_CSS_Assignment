@@ -32,6 +32,7 @@
   height: 150px;
   background-size: cover;
   background-position: bottom;
+  margin: 10px 10px 15px 10px;
 }
 
 .main-title {
@@ -44,17 +45,14 @@
 
 .main-image_1 {
   background-image: url(img/flow01.png);
-  margin: 10px 10px 15px 10px;
 }
 
 .main-image_2 {
   background-image: url(img/flow02.png);
-  margin: 10px 10px 15px 10px;
 }
 
 .main-image_3 {
   background-image: url(img/flow03.png);
-  margin: 10px 10px 15px 10px;
 }
 
 .main-icon {
