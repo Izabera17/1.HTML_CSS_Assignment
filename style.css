@@ -44,7 +44,7 @@
 
 .main-image_1 {
   background-image: url(img/flow01.png);
-  margin: 10px 10px 15px 10px;
+  margin: 10 10px 15px 10px;
 }
 
 .main-image_2 {
@@ -72,7 +72,7 @@
 }
 
 @media screen and (max-width:768px) {
-  .main-view {
+ .main-view {
     display: block;
   }
   
@@ -88,6 +88,7 @@
   
   .main-text {
     margin-bottom: 0;
+    padding-bottom: 10px;
   }
   
   .main-common:nth-last-child(1) {
@@ -107,7 +108,5 @@
   .main-contents_3 {
     padding-top: 10px;
     margin: 0 auto 50px;
-  }
-  
   }
 }
